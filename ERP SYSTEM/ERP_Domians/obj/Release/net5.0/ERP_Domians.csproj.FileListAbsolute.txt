@@ -1,0 +1,24 @@
+D:\ASP.NET Projects\ERP SYSTEM\ERP_Domians\bin\Release\net5.0\ERP_Domians.deps.json
+D:\ASP.NET Projects\ERP SYSTEM\ERP_Domians\bin\Release\net5.0\ERP_Domians.dll
+D:\ASP.NET Projects\ERP SYSTEM\ERP_Domians\bin\Release\net5.0\ERP_Domians.pdb
+D:\ASP.NET Projects\ERP SYSTEM\ERP_Domians\obj\Release\net5.0\ERP_Domians.csproj.AssemblyReference.cache
+D:\ASP.NET Projects\ERP SYSTEM\ERP_Domians\obj\Release\net5.0\ERP_Domians.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET Projects\ERP SYSTEM\ERP_Domians\obj\Release\net5.0\ERP_Domians.AssemblyInfoInputs.cache
+D:\ASP.NET Projects\ERP SYSTEM\ERP_Domians\obj\Release\net5.0\ERP_Domians.AssemblyInfo.cs
+D:\ASP.NET Projects\ERP SYSTEM\ERP_Domians\obj\Release\net5.0\ERP_Domians.csproj.CoreCompileInputs.cache
+D:\ASP.NET Projects\ERP SYSTEM\ERP_Domians\obj\Release\net5.0\ERP_Domians.dll
+D:\ASP.NET Projects\ERP SYSTEM\ERP_Domians\obj\Release\net5.0\refint\ERP_Domians.dll
+D:\ASP.NET Projects\ERP SYSTEM\ERP_Domians\obj\Release\net5.0\ERP_Domians.pdb
+D:\ASP.NET Projects\ERP SYSTEM\ERP_Domians\obj\Release\net5.0\ref\ERP_Domians.dll
+D:\ERP Last Version\ERP SYSTEM V3\ERP SYSTEM\ERP_Domians\bin\Release\net5.0\ERP_Domians.deps.json
+D:\ERP Last Version\ERP SYSTEM V3\ERP SYSTEM\ERP_Domians\bin\Release\net5.0\ERP_Domians.dll
+D:\ERP Last Version\ERP SYSTEM V3\ERP SYSTEM\ERP_Domians\bin\Release\net5.0\ERP_Domians.pdb
+D:\ERP Last Version\ERP SYSTEM V3\ERP SYSTEM\ERP_Domians\obj\Release\net5.0\ERP_Domians.csproj.AssemblyReference.cache
+D:\ERP Last Version\ERP SYSTEM V3\ERP SYSTEM\ERP_Domians\obj\Release\net5.0\ERP_Domians.GeneratedMSBuildEditorConfig.editorconfig
+D:\ERP Last Version\ERP SYSTEM V3\ERP SYSTEM\ERP_Domians\obj\Release\net5.0\ERP_Domians.AssemblyInfoInputs.cache
+D:\ERP Last Version\ERP SYSTEM V3\ERP SYSTEM\ERP_Domians\obj\Release\net5.0\ERP_Domians.AssemblyInfo.cs
+D:\ERP Last Version\ERP SYSTEM V3\ERP SYSTEM\ERP_Domians\obj\Release\net5.0\ERP_Domians.csproj.CoreCompileInputs.cache
+D:\ERP Last Version\ERP SYSTEM V3\ERP SYSTEM\ERP_Domians\obj\Release\net5.0\ERP_Domians.dll
+D:\ERP Last Version\ERP SYSTEM V3\ERP SYSTEM\ERP_Domians\obj\Release\net5.0\refint\ERP_Domians.dll
+D:\ERP Last Version\ERP SYSTEM V3\ERP SYSTEM\ERP_Domians\obj\Release\net5.0\ERP_Domians.pdb
+D:\ERP Last Version\ERP SYSTEM V3\ERP SYSTEM\ERP_Domians\obj\Release\net5.0\ref\ERP_Domians.dll

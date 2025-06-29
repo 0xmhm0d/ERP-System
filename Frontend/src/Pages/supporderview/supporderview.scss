@@ -1,0 +1,130 @@
+.paddorder
+{
+  padding: 7px;
+
+}
+
+.status-container {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  background-color: #f8f9fa;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 600px;
+  margin-bottom: 20px;
+}
+
+.current-status {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.status-badge {
+  padding: 6px 12px;
+  border-radius: 16px;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: capitalize;
+  display: inline-block;
+  min-width: 80px;
+  text-align: center;
+}
+
+.status-pending {
+  background-color: #fff3cd;
+  color: #856404;
+  border: 1px solid #ffeeba;
+}
+
+.status-shipped {
+  background-color: #d1e7ff;
+  color: #004085;
+  border: 1px solid #b8daff;
+}
+
+.status-fulfilled {
+  background-color: #d4edda;
+  color: #155724;
+  border: 1px solid #c3e6cb;
+}
+
+.status-actions {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.manufacturEdit1, .manufacturEdit2 {
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 150px;
+}
+
+.manufacturEdit1 {
+  background-color: #007bff;
+  color: white;
+  &:hover:not(:disabled) {
+    background-color: #0069d9;
+  }
+}
+
+.manufacturEdit2 {
+  background-color: #28a745;
+  color: white;
+  &:hover:not(:disabled) {
+    background-color: #218838;
+  }
+}
+
+.loading-indicator {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  
+  &:before {
+    content: "";
+    width: 16px;
+    height: 16px;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+    border-top-color: white;
+    border-radius: 50%;
+    animation: spinner 0.8s linear infinite;
+  }
+}
+
+@keyframes spinner {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+  .status-actions {
+    flex-direction: column;
+  }
+  
+  .manufacturEdit1, .manufacturEdit2 {
+    width: 100%;
+  }
+  
+  .table-striped {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+}

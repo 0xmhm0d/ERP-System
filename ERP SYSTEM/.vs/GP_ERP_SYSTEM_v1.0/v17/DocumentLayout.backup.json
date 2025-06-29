@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ERP Last Version\\ERP SYSTEM V3\\ERP SYSTEM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5757FA7-793A-4EFC-A00A-C9C5643471D5}|ERP_BusinessLogic\\ERP_BusinessLogic.csproj|d:\\erp last version\\erp system v3\\erp system\\erp_businesslogic\\dbinitialize\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5757FA7-793A-4EFC-A00A-C9C5643471D5}|ERP_BusinessLogic\\ERP_BusinessLogic.csproj|solutionrelative:erp_businesslogic\\dbinitialize\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10196CE-638E-4EF4-9C7B-DC5814D38450}|GP_ERP_SYSTEM_v1.0\\GP_ERP_SYSTEM_v1.0.csproj|d:\\erp last version\\erp system v3\\erp system\\gp_erp_system_v1.0\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10196CE-638E-4EF4-9C7B-DC5814D38450}|GP_ERP_SYSTEM_v1.0\\GP_ERP_SYSTEM_v1.0.csproj|solutionrelative:gp_erp_system_v1.0\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10196CE-638E-4EF4-9C7B-DC5814D38450}|GP_ERP_SYSTEM_v1.0\\GP_ERP_SYSTEM_v1.0.csproj|d:\\erp last version\\erp system v3\\erp system\\gp_erp_system_v1.0\\controllers\\distributorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10196CE-638E-4EF4-9C7B-DC5814D38450}|GP_ERP_SYSTEM_v1.0\\GP_ERP_SYSTEM_v1.0.csproj|solutionrelative:gp_erp_system_v1.0\\controllers\\distributorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10196CE-638E-4EF4-9C7B-DC5814D38450}|GP_ERP_SYSTEM_v1.0\\GP_ERP_SYSTEM_v1.0.csproj|d:\\erp last version\\erp system v3\\erp system\\gp_erp_system_v1.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F10196CE-638E-4EF4-9C7B-DC5814D38450}|GP_ERP_SYSTEM_v1.0\\GP_ERP_SYSTEM_v1.0.csproj|solutionrelative:gp_erp_system_v1.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10196CE-638E-4EF4-9C7B-DC5814D38450}|GP_ERP_SYSTEM_v1.0\\GP_ERP_SYSTEM_v1.0.csproj|d:\\erp last version\\erp system v3\\erp system\\gp_erp_system_v1.0\\dtos\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10196CE-638E-4EF4-9C7B-DC5814D38450}|GP_ERP_SYSTEM_v1.0\\GP_ERP_SYSTEM_v1.0.csproj|solutionrelative:gp_erp_system_v1.0\\dtos\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FC161D-F1E8-40BA-9C4A-75A3EEC19171}|ERP_Domians\\ERP_Domians.csproj|d:\\erp last version\\erp system v3\\erp system\\erp_domians\\iservices\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FC161D-F1E8-40BA-9C4A-75A3EEC19171}|ERP_Domians\\ERP_Domians.csproj|solutionrelative:erp_domians\\iservices\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5757FA7-793A-4EFC-A00A-C9C5643471D5}|ERP_BusinessLogic\\ERP_BusinessLogic.csproj|d:\\erp last version\\erp system v3\\erp system\\erp_businesslogic\\services\\distributionorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5757FA7-793A-4EFC-A00A-C9C5643471D5}|ERP_BusinessLogic\\ERP_BusinessLogic.csproj|solutionrelative:erp_businesslogic\\services\\distributionorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5757FA7-793A-4EFC-A00A-C9C5643471D5}|ERP_BusinessLogic\\ERP_BusinessLogic.csproj|d:\\erp last version\\erp system v3\\erp system\\erp_businesslogic\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5757FA7-793A-4EFC-A00A-C9C5643471D5}|ERP_BusinessLogic\\ERP_BusinessLogic.csproj|solutionrelative:erp_businesslogic\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10196CE-638E-4EF4-9C7B-DC5814D38450}|GP_ERP_SYSTEM_v1.0\\GP_ERP_SYSTEM_v1.0.csproj|d:\\erp last version\\erp system v3\\erp system\\gp_erp_system_v1.0\\controllers\\manufacturingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10196CE-638E-4EF4-9C7B-DC5814D38450}|GP_ERP_SYSTEM_v1.0\\GP_ERP_SYSTEM_v1.0.csproj|solutionrelative:gp_erp_system_v1.0\\controllers\\manufacturingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10196CE-638E-4EF4-9C7B-DC5814D38450}|GP_ERP_SYSTEM_v1.0\\GP_ERP_SYSTEM_v1.0.csproj|d:\\erp last version\\erp system v3\\erp system\\gp_erp_system_v1.0\\controllers\\ordersuppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10196CE-638E-4EF4-9C7B-DC5814D38450}|GP_ERP_SYSTEM_v1.0\\GP_ERP_SYSTEM_v1.0.csproj|solutionrelative:gp_erp_system_v1.0\\controllers\\ordersuppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10196CE-638E-4EF4-9C7B-DC5814D38450}|GP_ERP_SYSTEM_v1.0\\GP_ERP_SYSTEM_v1.0.csproj|d:\\erp last version\\erp system v3\\erp system\\gp_erp_system_v1.0\\controllers\\fmsjecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10196CE-638E-4EF4-9C7B-DC5814D38450}|GP_ERP_SYSTEM_v1.0\\GP_ERP_SYSTEM_v1.0.csproj|solutionrelative:gp_erp_system_v1.0\\controllers\\fmsjecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10196CE-638E-4EF4-9C7B-DC5814D38450}|GP_ERP_SYSTEM_v1.0\\GP_ERP_SYSTEM_v1.0.csproj|d:\\erp last version\\erp system v3\\erp system\\gp_erp_system_v1.0\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10196CE-638E-4EF4-9C7B-DC5814D38450}|GP_ERP_SYSTEM_v1.0\\GP_ERP_SYSTEM_v1.0.csproj|solutionrelative:gp_erp_system_v1.0\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10196CE-638E-4EF4-9C7B-DC5814D38450}|GP_ERP_SYSTEM_v1.0\\GP_ERP_SYSTEM_v1.0.csproj|d:\\erp last version\\erp system v3\\erp system\\gp_erp_system_v1.0\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10196CE-638E-4EF4-9C7B-DC5814D38450}|GP_ERP_SYSTEM_v1.0\\GP_ERP_SYSTEM_v1.0.csproj|solutionrelative:gp_erp_system_v1.0\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10196CE-638E-4EF4-9C7B-DC5814D38450}|GP_ERP_SYSTEM_v1.0\\GP_ERP_SYSTEM_v1.0.csproj|d:\\erp last version\\erp system v3\\erp system\\gp_erp_system_v1.0\\dtos\\distributionorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10196CE-638E-4EF4-9C7B-DC5814D38450}|GP_ERP_SYSTEM_v1.0\\GP_ERP_SYSTEM_v1.0.csproj|solutionrelative:gp_erp_system_v1.0\\dtos\\distributionorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FC161D-F1E8-40BA-9C4A-75A3EEC19171}|ERP_Domians\\ERP_Domians.csproj|d:\\erp last version\\erp system v3\\erp system\\erp_domians\\models\\tbdistributionorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FC161D-F1E8-40BA-9C4A-75A3EEC19171}|ERP_Domians\\ERP_Domians.csproj|solutionrelative:erp_domians\\models\\tbdistributionorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TbDistributionOrder.cs",
+              "DocumentMoniker": "D:\\ERP Last Version\\ERP SYSTEM V3\\ERP SYSTEM\\ERP_Domians\\Models\\TbDistributionOrder.cs",
+              "RelativeDocumentMoniker": "ERP_Domians\\Models\\TbDistributionOrder.cs",
+              "ToolTip": "D:\\ERP Last Version\\ERP SYSTEM V3\\ERP SYSTEM\\ERP_Domians\\Models\\TbDistributionOrder.cs",
+              "RelativeToolTip": "ERP_Domians\\Models\\TbDistributionOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T23:37:39.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DistributionOrderService.cs",
+              "DocumentMoniker": "D:\\ERP Last Version\\ERP SYSTEM V3\\ERP SYSTEM\\ERP_BusinessLogic\\Services\\DistributionOrderService.cs",
+              "RelativeDocumentMoniker": "ERP_BusinessLogic\\Services\\DistributionOrderService.cs",
+              "ToolTip": "D:\\ERP Last Version\\ERP SYSTEM V3\\ERP SYSTEM\\ERP_BusinessLogic\\Services\\DistributionOrderService.cs",
+              "RelativeToolTip": "ERP_BusinessLogic\\Services\\DistributionOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T23:02:05.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DistributionOrderDTO.cs",
+              "DocumentMoniker": "D:\\ERP Last Version\\ERP SYSTEM V3\\ERP SYSTEM\\GP_ERP_SYSTEM_v1.0\\DTOs\\DistributionOrderDTO.cs",
+              "RelativeDocumentMoniker": "GP_ERP_SYSTEM_v1.0\\DTOs\\DistributionOrderDTO.cs",
+              "ToolTip": "D:\\ERP Last Version\\ERP SYSTEM V3\\ERP SYSTEM\\GP_ERP_SYSTEM_v1.0\\DTOs\\DistributionOrderDTO.cs",
+              "RelativeToolTip": "GP_ERP_SYSTEM_v1.0\\DTOs\\DistributionOrderDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T22:58:17.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "D:\\ERP Last Version\\ERP SYSTEM V3\\ERP SYSTEM\\GP_ERP_SYSTEM_v1.0\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "GP_ERP_SYSTEM_v1.0\\Controllers\\SupplierController.cs",
+              "ToolTip": "D:\\ERP Last Version\\ERP SYSTEM V3\\ERP SYSTEM\\GP_ERP_SYSTEM_v1.0\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "GP_ERP_SYSTEM_v1.0\\Controllers\\SupplierController.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAtwMkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T19:05:44.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderSupplierController.cs",
+              "DocumentMoniker": "D:\\ERP Last Version\\ERP SYSTEM V3\\ERP SYSTEM\\GP_ERP_SYSTEM_v1.0\\Controllers\\OrderSupplierController.cs",
+              "RelativeDocumentMoniker": "GP_ERP_SYSTEM_v1.0\\Controllers\\OrderSupplierController.cs",
+              "ToolTip": "D:\\ERP Last Version\\ERP SYSTEM V3\\ERP SYSTEM\\GP_ERP_SYSTEM_v1.0\\Controllers\\OrderSupplierController.cs",
+              "RelativeToolTip": "GP_ERP_SYSTEM_v1.0\\Controllers\\OrderSupplierController.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAYwNMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T14:41:33.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManufacturingController.cs",
+              "DocumentMoniker": "D:\\ERP Last Version\\ERP SYSTEM V3\\ERP SYSTEM\\GP_ERP_SYSTEM_v1.0\\Controllers\\ManufacturingController.cs",
+              "RelativeDocumentMoniker": "GP_ERP_SYSTEM_v1.0\\Controllers\\ManufacturingController.cs",
+              "ToolTip": "D:\\ERP Last Version\\ERP SYSTEM V3\\ERP SYSTEM\\GP_ERP_SYSTEM_v1.0\\Controllers\\ManufacturingController.cs",
+              "RelativeToolTip": "GP_ERP_SYSTEM_v1.0\\Controllers\\ManufacturingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T14:26:44.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\ERP Last Version\\ERP SYSTEM V3\\ERP SYSTEM\\ERP_BusinessLogic\\DbInitialize\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "ERP_BusinessLogic\\DbInitialize\\DbInitializer.cs",
+              "ToolTip": "D:\\ERP Last Version\\ERP SYSTEM V3\\ERP SYSTEM\\ERP_BusinessLogic\\DbInitialize\\DbInitializer.cs",
+              "RelativeToolTip": "ERP_BusinessLogic\\DbInitialize\\DbInitializer.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA4wCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T12:47:18.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FmsJEController.cs",
+              "DocumentMoniker": "D:\\ERP Last Version\\ERP SYSTEM V3\\ERP SYSTEM\\GP_ERP_SYSTEM_v1.0\\Controllers\\FmsJEController.cs",
+              "RelativeDocumentMoniker": "GP_ERP_SYSTEM_v1.0\\Controllers\\FmsJEController.cs",
+              "ToolTip": "D:\\ERP Last Version\\ERP SYSTEM V3\\ERP SYSTEM\\GP_ERP_SYSTEM_v1.0\\Controllers\\FmsJEController.cs",
+              "RelativeToolTip": "GP_ERP_SYSTEM_v1.0\\Controllers\\FmsJEController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwEAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:54:45.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ERP Last Version\\ERP SYSTEM V3\\ERP SYSTEM\\GP_ERP_SYSTEM_v1.0\\appsettings.json",
+              "RelativeDocumentMoniker": "GP_ERP_SYSTEM_v1.0\\appsettings.json",
+              "ToolTip": "D:\\ERP Last Version\\ERP SYSTEM V3\\ERP SYSTEM\\GP_ERP_SYSTEM_v1.0\\appsettings.json",
+              "RelativeToolTip": "GP_ERP_SYSTEM_v1.0\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T06:12:49.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DistributorController.cs",
+              "DocumentMoniker": "D:\\ERP Last Version\\ERP SYSTEM V3\\ERP SYSTEM\\GP_ERP_SYSTEM_v1.0\\Controllers\\DistributorController.cs",
+              "RelativeDocumentMoniker": "GP_ERP_SYSTEM_v1.0\\Controllers\\DistributorController.cs",
+              "ToolTip": "D:\\ERP Last Version\\ERP SYSTEM V3\\ERP SYSTEM\\GP_ERP_SYSTEM_v1.0\\Controllers\\DistributorController.cs",
+              "RelativeToolTip": "GP_ERP_SYSTEM_v1.0\\Controllers\\DistributorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T04:40:58.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\ERP Last Version\\ERP SYSTEM V3\\ERP SYSTEM\\GP_ERP_SYSTEM_v1.0\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "GP_ERP_SYSTEM_v1.0\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\ERP Last Version\\ERP SYSTEM V3\\ERP SYSTEM\\GP_ERP_SYSTEM_v1.0\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "GP_ERP_SYSTEM_v1.0\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T21:03:46.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountDTO.cs",
+              "DocumentMoniker": "D:\\ERP Last Version\\ERP SYSTEM V3\\ERP SYSTEM\\GP_ERP_SYSTEM_v1.0\\DTOs\\AccountDTO.cs",
+              "RelativeDocumentMoniker": "GP_ERP_SYSTEM_v1.0\\DTOs\\AccountDTO.cs",
+              "ToolTip": "D:\\ERP Last Version\\ERP SYSTEM V3\\ERP SYSTEM\\GP_ERP_SYSTEM_v1.0\\DTOs\\AccountDTO.cs",
+              "RelativeToolTip": "GP_ERP_SYSTEM_v1.0\\DTOs\\AccountDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T19:36:50.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\ERP Last Version\\ERP SYSTEM V3\\ERP SYSTEM\\GP_ERP_SYSTEM_v1.0\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "GP_ERP_SYSTEM_v1.0\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\ERP Last Version\\ERP SYSTEM V3\\ERP SYSTEM\\GP_ERP_SYSTEM_v1.0\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "GP_ERP_SYSTEM_v1.0\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAEwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T15:22:13.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\ERP Last Version\\ERP SYSTEM V3\\ERP SYSTEM\\ERP_BusinessLogic\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "ERP_BusinessLogic\\Services\\AuthService.cs",
+              "ToolTip": "D:\\ERP Last Version\\ERP SYSTEM V3\\ERP SYSTEM\\ERP_BusinessLogic\\Services\\AuthService.cs",
+              "RelativeToolTip": "ERP_BusinessLogic\\Services\\AuthService.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAowJ8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:02:19.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\ERP Last Version\\ERP SYSTEM V3\\ERP SYSTEM\\ERP_Domians\\IServices\\IAuthService.cs",
+              "RelativeDocumentMoniker": "ERP_Domians\\IServices\\IAuthService.cs",
+              "ToolTip": "D:\\ERP Last Version\\ERP SYSTEM V3\\ERP SYSTEM\\ERP_Domians\\IServices\\IAuthService.cs",
+              "RelativeToolTip": "ERP_Domians\\IServices\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:01:59.636Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

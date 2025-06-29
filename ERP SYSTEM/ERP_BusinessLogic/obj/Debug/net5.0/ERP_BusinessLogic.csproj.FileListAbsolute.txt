@@ -1,0 +1,91 @@
+E:\GP_BACKEND_V3\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\bin\Debug\net5.0\ERP_BusinessLogic.deps.json
+E:\GP_BACKEND_V3\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\bin\Debug\net5.0\ERP_BusinessLogic.runtimeconfig.json
+E:\GP_BACKEND_V3\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\bin\Debug\net5.0\ERP_BusinessLogic.runtimeconfig.dev.json
+E:\GP_BACKEND_V3\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\bin\Debug\net5.0\ERP_BusinessLogic.dll
+E:\GP_BACKEND_V3\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\bin\Debug\net5.0\ref\ERP_BusinessLogic.dll
+E:\GP_BACKEND_V3\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\bin\Debug\net5.0\ERP_BusinessLogic.pdb
+E:\GP_BACKEND_V3\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\bin\Debug\net5.0\ERP_Domians.dll
+E:\GP_BACKEND_V3\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\bin\Debug\net5.0\ERP_Domians.pdb
+E:\GP_BACKEND_V3\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.csproj.AssemblyReference.cache
+E:\GP_BACKEND_V3\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\GP_BACKEND_V3\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.AssemblyInfoInputs.cache
+E:\GP_BACKEND_V3\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.AssemblyInfo.cs
+E:\GP_BACKEND_V3\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.csproj.CoreCompileInputs.cache
+E:\GP_BACKEND_V3\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.csproj.CopyComplete
+E:\GP_BACKEND_V3\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.dll
+E:\GP_BACKEND_V3\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\obj\Debug\net5.0\ref\ERP_BusinessLogic.dll
+E:\GP_BACKEND_V3\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.pdb
+E:\GP_BACKEND_V3\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.genruntimeconfig.cache
+D:\6-Programming and courses\My Local Projects Repository\ASP.net MVC\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\bin\Debug\net5.0\ERP_BusinessLogic.deps.json
+D:\6-Programming and courses\My Local Projects Repository\ASP.net MVC\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\bin\Debug\net5.0\ERP_BusinessLogic.runtimeconfig.json
+D:\6-Programming and courses\My Local Projects Repository\ASP.net MVC\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\bin\Debug\net5.0\ERP_BusinessLogic.runtimeconfig.dev.json
+D:\6-Programming and courses\My Local Projects Repository\ASP.net MVC\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\bin\Debug\net5.0\ERP_BusinessLogic.dll
+D:\6-Programming and courses\My Local Projects Repository\ASP.net MVC\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\bin\Debug\net5.0\ref\ERP_BusinessLogic.dll
+D:\6-Programming and courses\My Local Projects Repository\ASP.net MVC\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\bin\Debug\net5.0\ERP_BusinessLogic.pdb
+D:\6-Programming and courses\My Local Projects Repository\ASP.net MVC\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\bin\Debug\net5.0\ERP_Domians.dll
+D:\6-Programming and courses\My Local Projects Repository\ASP.net MVC\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\bin\Debug\net5.0\ERP_Domians.pdb
+D:\6-Programming and courses\My Local Projects Repository\ASP.net MVC\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.csproj.AssemblyReference.cache
+D:\6-Programming and courses\My Local Projects Repository\ASP.net MVC\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\6-Programming and courses\My Local Projects Repository\ASP.net MVC\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.AssemblyInfoInputs.cache
+D:\6-Programming and courses\My Local Projects Repository\ASP.net MVC\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.AssemblyInfo.cs
+D:\6-Programming and courses\My Local Projects Repository\ASP.net MVC\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.csproj.CoreCompileInputs.cache
+D:\6-Programming and courses\My Local Projects Repository\ASP.net MVC\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.csproj.CopyComplete
+D:\6-Programming and courses\My Local Projects Repository\ASP.net MVC\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.dll
+D:\6-Programming and courses\My Local Projects Repository\ASP.net MVC\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\obj\Debug\net5.0\ref\ERP_BusinessLogic.dll
+D:\6-Programming and courses\My Local Projects Repository\ASP.net MVC\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.pdb
+D:\6-Programming and courses\My Local Projects Repository\ASP.net MVC\GP_ERP_SYSTEM_v1.0\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.genruntimeconfig.cache
+C:\Users\nkhf7\Downloads\ERP-System-main-20241221T231048Z-001\ERP-System-main\ERP SYSTEM\ERP_BusinessLogic\bin\Debug\net5.0\ERP_BusinessLogic.deps.json
+C:\Users\nkhf7\Downloads\ERP-System-main-20241221T231048Z-001\ERP-System-main\ERP SYSTEM\ERP_BusinessLogic\bin\Debug\net5.0\ERP_BusinessLogic.runtimeconfig.json
+C:\Users\nkhf7\Downloads\ERP-System-main-20241221T231048Z-001\ERP-System-main\ERP SYSTEM\ERP_BusinessLogic\bin\Debug\net5.0\ERP_BusinessLogic.runtimeconfig.dev.json
+C:\Users\nkhf7\Downloads\ERP-System-main-20241221T231048Z-001\ERP-System-main\ERP SYSTEM\ERP_BusinessLogic\bin\Debug\net5.0\ERP_BusinessLogic.dll
+C:\Users\nkhf7\Downloads\ERP-System-main-20241221T231048Z-001\ERP-System-main\ERP SYSTEM\ERP_BusinessLogic\bin\Debug\net5.0\ERP_BusinessLogic.pdb
+C:\Users\nkhf7\Downloads\ERP-System-main-20241221T231048Z-001\ERP-System-main\ERP SYSTEM\ERP_BusinessLogic\bin\Debug\net5.0\ERP_Domians.dll
+C:\Users\nkhf7\Downloads\ERP-System-main-20241221T231048Z-001\ERP-System-main\ERP SYSTEM\ERP_BusinessLogic\bin\Debug\net5.0\ERP_Domians.pdb
+C:\Users\nkhf7\Downloads\ERP-System-main-20241221T231048Z-001\ERP-System-main\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\nkhf7\Downloads\ERP-System-main-20241221T231048Z-001\ERP-System-main\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkhf7\Downloads\ERP-System-main-20241221T231048Z-001\ERP-System-main\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\nkhf7\Downloads\ERP-System-main-20241221T231048Z-001\ERP-System-main\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.AssemblyInfo.cs
+C:\Users\nkhf7\Downloads\ERP-System-main-20241221T231048Z-001\ERP-System-main\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\nkhf7\Downloads\ERP-System-main-20241221T231048Z-001\ERP-System-main\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\ERP_Busi.DB598D74.Up2Date
+C:\Users\nkhf7\Downloads\ERP-System-main-20241221T231048Z-001\ERP-System-main\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.dll
+C:\Users\nkhf7\Downloads\ERP-System-main-20241221T231048Z-001\ERP-System-main\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\refint\ERP_BusinessLogic.dll
+C:\Users\nkhf7\Downloads\ERP-System-main-20241221T231048Z-001\ERP-System-main\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.pdb
+C:\Users\nkhf7\Downloads\ERP-System-main-20241221T231048Z-001\ERP-System-main\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.genruntimeconfig.cache
+C:\Users\nkhf7\Downloads\ERP-System-main-20241221T231048Z-001\ERP-System-main\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\ref\ERP_BusinessLogic.dll
+C:\Users\nkhf7\Downloads\ERP-System-main-20241221T231048Z-001\ERP-System-main\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.sourcelink.json
+D:\ASP.NET Projects\ERP SYSTEM\ERP_BusinessLogic\bin\Debug\net5.0\ERP_BusinessLogic.deps.json
+D:\ASP.NET Projects\ERP SYSTEM\ERP_BusinessLogic\bin\Debug\net5.0\ERP_BusinessLogic.runtimeconfig.json
+D:\ASP.NET Projects\ERP SYSTEM\ERP_BusinessLogic\bin\Debug\net5.0\ERP_BusinessLogic.runtimeconfig.dev.json
+D:\ASP.NET Projects\ERP SYSTEM\ERP_BusinessLogic\bin\Debug\net5.0\ERP_BusinessLogic.dll
+D:\ASP.NET Projects\ERP SYSTEM\ERP_BusinessLogic\bin\Debug\net5.0\ERP_BusinessLogic.pdb
+D:\ASP.NET Projects\ERP SYSTEM\ERP_BusinessLogic\bin\Debug\net5.0\ERP_Domians.dll
+D:\ASP.NET Projects\ERP SYSTEM\ERP_BusinessLogic\bin\Debug\net5.0\ERP_Domians.pdb
+D:\ASP.NET Projects\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.csproj.AssemblyReference.cache
+D:\ASP.NET Projects\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET Projects\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.AssemblyInfoInputs.cache
+D:\ASP.NET Projects\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.AssemblyInfo.cs
+D:\ASP.NET Projects\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.csproj.CoreCompileInputs.cache
+D:\ASP.NET Projects\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\ERP_Busi.DB598D74.Up2Date
+D:\ASP.NET Projects\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.dll
+D:\ASP.NET Projects\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\refint\ERP_BusinessLogic.dll
+D:\ASP.NET Projects\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.pdb
+D:\ASP.NET Projects\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.genruntimeconfig.cache
+D:\ASP.NET Projects\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\ref\ERP_BusinessLogic.dll
+D:\ERP Last Version\ERP SYSTEM V3\ERP SYSTEM\ERP_BusinessLogic\bin\Debug\net5.0\ERP_BusinessLogic.deps.json
+D:\ERP Last Version\ERP SYSTEM V3\ERP SYSTEM\ERP_BusinessLogic\bin\Debug\net5.0\ERP_BusinessLogic.runtimeconfig.json
+D:\ERP Last Version\ERP SYSTEM V3\ERP SYSTEM\ERP_BusinessLogic\bin\Debug\net5.0\ERP_BusinessLogic.runtimeconfig.dev.json
+D:\ERP Last Version\ERP SYSTEM V3\ERP SYSTEM\ERP_BusinessLogic\bin\Debug\net5.0\ERP_BusinessLogic.dll
+D:\ERP Last Version\ERP SYSTEM V3\ERP SYSTEM\ERP_BusinessLogic\bin\Debug\net5.0\ERP_BusinessLogic.pdb
+D:\ERP Last Version\ERP SYSTEM V3\ERP SYSTEM\ERP_BusinessLogic\bin\Debug\net5.0\ERP_Domians.dll
+D:\ERP Last Version\ERP SYSTEM V3\ERP SYSTEM\ERP_BusinessLogic\bin\Debug\net5.0\ERP_Domians.pdb
+D:\ERP Last Version\ERP SYSTEM V3\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.csproj.AssemblyReference.cache
+D:\ERP Last Version\ERP SYSTEM V3\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\ERP Last Version\ERP SYSTEM V3\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.AssemblyInfoInputs.cache
+D:\ERP Last Version\ERP SYSTEM V3\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.AssemblyInfo.cs
+D:\ERP Last Version\ERP SYSTEM V3\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.csproj.CoreCompileInputs.cache
+D:\ERP Last Version\ERP SYSTEM V3\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\ERP_Busi.DB598D74.Up2Date
+D:\ERP Last Version\ERP SYSTEM V3\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.dll
+D:\ERP Last Version\ERP SYSTEM V3\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\refint\ERP_BusinessLogic.dll
+D:\ERP Last Version\ERP SYSTEM V3\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.pdb
+D:\ERP Last Version\ERP SYSTEM V3\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\ERP_BusinessLogic.genruntimeconfig.cache
+D:\ERP Last Version\ERP SYSTEM V3\ERP SYSTEM\ERP_BusinessLogic\obj\Debug\net5.0\ref\ERP_BusinessLogic.dll
