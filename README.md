@@ -19,6 +19,7 @@ This is my university graduation project — a fully integrated ERP system built
 ## 🔐 Security
 Application was secured by implementing security best practices and conducting penetration testing.
 
+## Presentation (https://docs.google.com/presentation/d/1sWzpXwx8mljgoHvoxZd5lCpt7Ckzn3hh/edit?usp=sharing&ouid=102525938480263922900&rtpof=true&sd=true)
 ## 📸 Screenshots in our presentation
 
 ## 🚀 How to Run
